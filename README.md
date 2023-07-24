@@ -3,7 +3,7 @@ I use the username `krissowat` online and use `he/they` pronouns.
 - I'm an undergraduate student at University of California, Irvine (UCI)
 - I'm interested in Fullstack Engineering and AI/ML, and have experience in data engineering and research software engineering!
 - This GitHub will host my personal projects in public repositories! Let me know if you have any questions or concerns about anything.
-- Feel free to reach me at: [`ksowatta@uci.edu`](ksowatta@uci.edu), [`www.krissowat.com`](https://www.krissowat.com), or [`LinkedIn`](https://www.linkedin.com/in/krissowat)
+- Feel free to reach me at: [`ksowatta@uci.edu`](ksowatta@uci.edu), [`www.krissowat.com`](http://krissowat.com), or [`LinkedIn`](https://www.linkedin.com/in/krissowat)
 
 
 <!--
